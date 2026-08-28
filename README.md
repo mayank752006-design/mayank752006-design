@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mayank 👋
 
-<!--
-**mayank752006-design/mayank752006-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🌱 Currently learning Java and Data Structures & Algorithms  
+🐍 Python | ☕ Java | 🗄️ SQL  
+🚀 Building projects and improving my problem-solving skills
 
-Here are some ideas to get you started:
+## 🧠 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Data Structures & Algorithms
+- SQL
+- Git & GitHub
+- Problem Solving
+
+## 💻 Coding Practice
+
+I regularly practice programming problems on LeetCode while building my skills across different programming languages.
+
+## 🚀 Goals
+
+- Build meaningful software projects
+- Strengthen my DSA skills
+- Contribute to open-source projects
+- Become a better software developer
+
+---
+
+⭐ Thanks for visiting my profile!
